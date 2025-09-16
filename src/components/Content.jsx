@@ -10,11 +10,11 @@ export default class Content extends Component {
               <div>
                 <img
                   className="img-fluid"
-                  src="src\assets\portugal_v_slovakia_group_j_-_uefa_euro_2024_european_qualifiers.jpeg"
+                  src="public\images\cr.jpg"
                   alt=""
                 />
                 <h6 className="card-footer text-center">Cristiano Ronaldo</h6>
-                <p className="text-center">MU</p>
+                <p className="text-center">Manchester United</p>
                 <h6 className="card-footer text-center detail">Details</h6>
               </div>
             </div>
@@ -25,11 +25,11 @@ export default class Content extends Component {
               <div>
                 <img
                   className="img-fluid"
-                  src="src\assets\portugal_v_slovakia_group_j_-_uefa_euro_2024_european_qualifiers.jpeg"
+                  src="public\images\kane.jpg"
                   alt=""
                 />
-                <h6 className="card-footer text-center">Cristiano Ronaldo</h6>
-                <p className="text-center">MU</p>
+                <h6 className="card-footer text-center">Kante</h6>
+                <p className="text-center">Chelsea</p>
                 <h6 className="card-footer text-center detail">Details</h6>
               </div>
             </div>
@@ -40,11 +40,11 @@ export default class Content extends Component {
               <div>
                 <img
                   className="img-fluid"
-                  src="src\assets\portugal_v_slovakia_group_j_-_uefa_euro_2024_european_qualifiers.jpeg"
+                  src="public\images\messi.jpg"
                   alt=""
                 />
-                <h6 className="card-footer text-center">Cristiano Ronaldo</h6>
-                <p className="text-center">MU</p>
+                <h6 className="card-footer text-center">Messi</h6>
+                <p className="text-center">PSG</p>
                 <h6 className="card-footer text-center detail">Details</h6>
               </div>
             </div>
@@ -57,11 +57,11 @@ export default class Content extends Component {
               <div>
                 <img
                   className="img-fluid"
-                  src="src\assets\portugal_v_slovakia_group_j_-_uefa_euro_2024_european_qualifiers.jpeg"
+                  src="public\images\neymar.jpg"
                   alt=""
                 />
-                <h6 className="card-footer text-center">Cristiano Ronaldo</h6>
-                <p className="text-center">MU</p>
+                <h6 className="card-footer text-center">Neymar</h6>
+                <p className="text-center">PSG</p>
                 <h6 className="card-footer text-center detail">Details</h6>
               </div>
             </div>
@@ -72,11 +72,11 @@ export default class Content extends Component {
               <div>
                 <img
                   className="img-fluid"
-                  src="src\assets\portugal_v_slovakia_group_j_-_uefa_euro_2024_european_qualifiers.jpeg"
+                  src="public\images\kane.jpg"
                   alt=""
                 />
-                <h6 className="card-footer text-center">Cristiano Ronaldo</h6>
-                <p className="text-center">MU</p>
+                <h6 className="card-footer text-center">Kane</h6>
+                <p className="text-center">Tottenham</p>
                 <h6 className="card-footer text-center detail">Details</h6>
               </div>
             </div>
@@ -87,11 +87,11 @@ export default class Content extends Component {
               <div>
                 <img
                   className="img-fluid"
-                  src="src\assets\portugal_v_slovakia_group_j_-_uefa_euro_2024_european_qualifiers.jpeg"
+                  src="public\images\haaland.jpg"
                   alt=""
                 />
-                <h6 className="card-footer text-center">Cristiano Ronaldo</h6>
-                <p className="text-center">MU</p>
+                <h6 className="card-footer text-center">Haaland</h6>
+                <p className="text-center">Manchester City</p>
                 <h6 className="card-footer text-center detail">Details</h6>
               </div>
             </div>
