@@ -1,0 +1,61 @@
+.navbar {
+  background-color: #170048;
+  padding-left: 30px;
+}
+
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.navbar li {
+  margin-right: 5px;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+  padding: 10px 15px;
+}
+
+.navbar a:hover {
+  background-color: rgb(255, 187, 0);
+  color: white;
+}
+
+/* .navbar a.active {
+  background-color: rgb(255, 187, 0);
+  color: white;
+} */
+
+.row {
+  margin: 10px 0;
+  padding: 0px;
+}
+
+.card {
+  background-color: rgb(221, 221, 221);
+}
+
+.card h6 {
+  margin: 0px;
+  padding: 10px;
+}
+
+.card p {
+  font-size: 12px;
+}
+
+.detail {
+  background-color: black;
+  color: white;
+}
+
+.footer p {
+  background-color: rgb(255, 187, 0);
+  margin: 0px;
+  padding: 5px;
+}
