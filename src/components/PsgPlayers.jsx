@@ -1,11 +1,10 @@
-import React from "react";
-import { Players } from "../share/ListOfPlayers";
+import React from 'react';
 
-export default function Player() {
+export default function PsgPlayers({psgFromContainer}) {
   return (
     <div className="container">
       <div className="row g-3">
-        {Players.map((player) => (
+        {psgFromContainer.map((player) => (
           <div className="col-md-4" key={player.id}>
             <div className="card">
               <img className="img-fluid" src={player.img} alt="" />
