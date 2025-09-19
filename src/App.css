@@ -24,6 +24,7 @@
 .navbar a:hover {
   background-color: rgb(255, 187, 0);
   color: white;
+  transition: 0.5s;
 }
 
 /* .navbar a.active {
